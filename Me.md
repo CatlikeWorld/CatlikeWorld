@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @CatlikeWorld!
+- 👀 I’m interested in coding, building.
+- 🌱 I’m currently learning lua and javascript coding.
+- 📫 How to reach me:
+- via Discord: @Catlike#6257
+- via Roblox messaging service: @CatlikeWorld
